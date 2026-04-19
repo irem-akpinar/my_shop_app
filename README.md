@@ -17,8 +17,8 @@ Kullanıcılar ürünleri görüntüleyebilir, detaylarını inceleyebilir ve se
 
 ## ⚙️ Flutter Versiyonu
 
-Flutter 3.41.6 
-Dart 3.11.4
+-Flutter 3.41.6  
+-Dart 3.11.4
 
 ---
 
@@ -26,7 +26,7 @@ Dart 3.11.4
 
 1. Repoyu klonlayın:
 ```
-   git clone <repo-url>
+   git clone <https://github.com/irem-akpinar/my_shop_app.git>
 ```
 
 2. Bağımlılıkları yükleyin:
